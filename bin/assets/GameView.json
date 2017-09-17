@@ -1,0 +1,277 @@
+{
+  "cells": [
+    {
+          "fieldDefinition": {"x":0,"y":0},
+          "imageAlias":"corner_left_up.png"
+    },
+    {
+          "fieldDefinition": {"x":166,"y":0},
+          "imageAlias":"up_1.png",
+          "cellType": "Company",
+          "companyName":"Rolls Royce",
+          "companyPrice": 2000,
+          "companyTax": 200
+    },
+    {
+          "fieldDefinition": {"x":248,"y":0},
+          "imageAlias":"up_2.png",
+          "cellType": "Company",
+          "companyName":"McDonalds",
+          "companyPrice": 200000,
+          "companyTax": 200
+    },
+    {
+          "fieldDefinition": {"x":330,"y":0},
+          "imageAlias":"up_3.png",
+          "cellType": "Company",
+          "companyName":"BP",
+          "companyPrice": 60000,
+          "companyTax": 200
+    },
+    {
+          "fieldDefinition": {"x":412,"y":0},
+          "imageAlias":"up_4.png",
+          "cellType": "Company",
+          "companyName":"BBC",
+          "companyPrice": 4000,
+          "companyTax": 200
+    },    
+    {
+          "fieldDefinition": {"x":494,"y":0},
+          "imageAlias":"up_5.png",
+          "cellType": "Force majeure"
+    },
+    {
+          "fieldDefinition": {"x":576,"y":0},
+          "imageAlias":"up_6.png",
+          "cellType": "Company",
+          "companyName":"Sumsung",
+          "companyPrice": 150000,
+          "companyTax": 200
+    },
+    {
+          "fieldDefinition": {"x":658,"y":0},
+          "imageAlias":"up_7.png",
+          "cellType": "Chance"
+    },
+    {
+          "fieldDefinition": {"x":740,"y":0},
+          "imageAlias":"up_8.png",
+          "cellType": "Company",
+          "companyName":"DANONE",
+          "companyPrice": 6000,
+          "companyTax": 200
+    },
+    {
+          "fieldDefinition": {"x":822,"y":0},
+          "imageAlias":"up_9.png",
+          "cellType": "Company",
+          "companyName":"Hennessy",
+          "companyPrice": 100000,
+          "companyTax": 200
+    },
+    {
+          "fieldDefinition": {"x":904,"y":0},
+          "imageAlias":"up_10.png",
+          "cellType": "Company",
+          "companyName":"Walt Disney",
+          "companyPrice": 200000,
+          "companyTax": 200
+    },
+    {
+          "fieldDefinition": {"x":986,"y":0},
+          "imageAlias":"up_11.png",
+          "cellType": "Company",
+          "companyName":"LOREAL",
+          "companyPrice": 150000,
+          "companyTax": 200
+    },
+    {
+          "fieldDefinition": {"x":1068,"y":0},
+          "imageAlias":"corner_right_up.png"
+    },
+    {
+          "fieldDefinition": {"x":1068,"y":172},
+          "imageAlias":"right_1.png",
+          "cellType": "Company",
+          "companyName":"IKEA",
+          "companyPrice": 140000,
+          "companyTax": 200
+    },
+    {
+          "fieldDefinition": {"x":1068,"y":255},
+          "imageAlias":"right_2.png",
+          "cellType": "Company",
+          "companyName":"VOLVO",
+          "companyPrice": 140000,
+          "companyTax": 200
+    },
+    {
+          "fieldDefinition": {"x":1068,"y":338},
+          "imageAlias":"right_3.png",
+          "cellType": "Company",
+          "companyName":"GIORGIO ARMANI",
+          "companyPrice": 14000,
+          "companyTax": 200
+    },
+    {
+          "fieldDefinition": {"x":1068,"y":421},
+          "imageAlias":"right_4.png",
+          "cellType": "Tax",
+          "tax": 150000
+    },
+    {
+          "fieldDefinition": {"x":1068,"y":504},
+          "imageAlias":"right_5.png",
+          "cellType": "Company",
+          "companyName":"VERSACE",
+          "companyPrice": 14000,
+          "companyTax": 200
+    },
+    {
+          "fieldDefinition": {"x":1068,"y":587},
+          "imageAlias":"right_6.png",
+          "cellType": "Company",
+          "companyName":"Ferrari",
+          "companyPrice": 16000,
+          "companyTax": 200
+    },
+    {
+          "fieldDefinition": {"x":1068,"y":670},
+          "imageAlias":"corner_right_down.png"
+    },
+    {
+          "fieldDefinition": {"x":986,"y":670},
+          "imageAlias":"down_1.png",
+          "cellType": "Company",
+          "companyName":"Mercedes-Benz",
+          "companyPrice": 24000,
+          "companyTax": 200
+    },
+    {
+          "fieldDefinition": {"x":904,"y":670},
+          "imageAlias":"down_2.png",
+          "cellType": "Company",
+          "companyName":"Ford",
+          "companyPrice": 200000,
+          "companyTax": 200
+    },
+    {
+          "fieldDefinition": {"x":822,"y":670},
+          "imageAlias":"down_3.png",
+          "cellType": "Company",
+          "companyName":"Adidas",
+          "companyPrice": 22000,
+          "companyTax": 200
+    },
+    {
+          "fieldDefinition": {"x":740,"y":670},
+          "imageAlias":"down_4.png",
+          "cellType": "Company",
+          "companyName":"SIEMENS",
+          "companyPrice": 22000,
+          "companyTax": 200
+    },
+    {
+          "fieldDefinition": {"x":658,"y":670},
+          "imageAlias":"down_5.png",
+          "cellType":"Chance"
+    },
+    {
+          "fieldDefinition": {"x":576,"y":670},
+          "imageAlias":"down_6.png",
+          "cellType": "Company",
+          "companyName":"HYUNDAI",
+          "companyPrice": 150000,
+          "companyTax": 200
+    },
+    {
+          "fieldDefinition": {"x":494,"y":670},
+          "imageAlias":"down_7.png",
+          "cellType":"Force majeure"
+    },
+    {
+          "fieldDefinition": {"x":412,"y":670},
+          "imageAlias":"down_8.png",
+          "cellType": "Company",
+          "companyName":"TOYOTA",
+          "companyPrice": 20000,
+          "companyTax": 200
+    }, 
+    {
+          "fieldDefinition": {"x":330,"y":670},
+          "imageAlias":"down_9.png",
+          "cellType": "Company",
+          "companyName":"Canon",
+          "companyPrice": 18000,
+          "companyTax": 200
+    },
+    {
+          "fieldDefinition": {"x":248,"y":670},
+          "imageAlias":"down_10.png",
+          "cellType": "Company",
+          "companyName":"Coca-Cola",
+          "companyPrice": 200000,
+          "companyTax": 200
+    },
+    {
+          "fieldDefinition": {"x":166,"y":670},
+          "imageAlias":"down_11.png",
+          "cellType": "Company",
+          "companyName":"Sony",
+          "companyPrice": 220000,
+          "companyTax": 200
+    },
+    {
+          "fieldDefinition": {"x":0,"y":670},
+          "imageAlias":"corner_left_down.png"
+    },
+    {
+          "fieldDefinition": {"x":0,"y":587},
+          "imageAlias":"left_6.png",
+          "cellType": "Company",
+          "companyName":"Nestle",
+          "companyPrice": 28000,
+          "companyTax": 200
+    },
+    {
+          "fieldDefinition": {"x":0,"y":504},
+          "imageAlias":"left_5.png",
+          "cellType": "Company",
+          "companyName":"ROLEX",
+          "companyPrice": 28000,
+          "companyTax": 200
+    },
+    {
+          "fieldDefinition": {"x":0,"y":421},
+          "imageAlias":"left_4.png",
+          "cellType": "Company",
+          "companyName":"Lukoyl",
+          "companyPrice": 350000,
+          "companyTax": 200
+    },
+    {
+          "fieldDefinition": {"x":0,"y":338},
+          "imageAlias":"left_3.png",
+          "cellType": "Tax",
+          "tax":150000
+    },
+    {
+          "fieldDefinition": {"x":0,"y":255},
+          "imageAlias":"left_2.png",
+          "cellType": "Company",
+          "companyName":"Sberbank",
+          "companyPrice": 350000,
+          "companyTax": 200
+    },
+    {
+          "fieldDefinition": {"x":0,"y":172},
+          "imageAlias":"left_1.png",
+          "cellType": "Company",
+          "companyName":"Gazprom",
+          "companyPrice": 400000,
+          "companyTax": 200
+    }
+    
+  ]
+}
